@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Lopes</h1>
 <h3 align="center">Backend Developer - Python Developer</h3>
 
-- 🔭 I am currently working on my final graduation project **TankSaver**
+- 🔭 I am currently working on my final graduation project **TankSaver**, using Python/Django for the backend and React for the frontend.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

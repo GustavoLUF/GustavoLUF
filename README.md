@@ -2,7 +2,8 @@
 <h3 align="center">Backend Developer - Python Developer</h3>
 
 - 🔭 I am currently working on my final graduation project **TankSaver**, using Python/Django for the backend and React for the frontend.
-
+- Open to work!
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gustavoluf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavoluf/" height="30" width="40" /></a>

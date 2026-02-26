@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Lopes</h1>
-<h3 align="center">Backend Developer - Python Developer - Data Scientist</h3>
+<h3 align="center">Backend Developer - Python Developer - ML Engineer</h3>
 
-- 🔭 I have a degree in Computer Science and am specializing in Data Science.
+- 🔭 I have a degree in Computer Science and specialize in Data Science and Machine Learning.
 - Open to work!
   
 <h3 align="left">Connect with me:</h3>

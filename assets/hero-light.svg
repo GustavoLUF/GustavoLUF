@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
   <title id="title">Gustavo Lopes — Machine Learning Engineer and Python Backend Developer</title>
-  <desc id="desc">A clean light banner with a softly animated signal moving from an API through a model to inference.</desc>
+  <desc id="desc">A clean light banner with a softly animated signal showing an API and ML model serving real users.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7FAF8"/><stop offset="1" stop-color="#EAF2EF"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#087E8B"/><stop offset="1" stop-color="#26A69A"/></linearGradient>
@@ -42,10 +42,10 @@
     <circle class="pulse" cx="338" cy="65" r="39" fill="#F5EBDD" stroke="#CA8241" stroke-width="2" style="animation-delay:.8s"/>
     <circle cx="88" cy="65" r="7" fill="#168B7A" filter="url(#glow)"/>
     <path d="M205 55h18v20h-18zM209 50h10v5h-10zM209 60h10M209 66h10" fill="none" stroke="#087E8B" stroke-width="2" stroke-linecap="round"/>
-    <path d="M327 71c0-8 5-13 11-13s11 5 11 13M338 52v8M326 66l-5-4M350 66l5-4" fill="none" stroke="#A86F38" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="334" cy="59" r="5" fill="none" stroke="#A86F38" stroke-width="2"/><circle cx="345" cy="62" r="4" fill="none" stroke="#A86F38" stroke-width="2"/><path d="M324 76c0-8 4-12 10-12s10 4 10 12M340 76c0-6 3-9 7-9s7 3 7 9" fill="none" stroke="#A86F38" stroke-width="2" stroke-linecap="round"/>
     <text x="88" y="129" text-anchor="middle" fill="#365553" font-size="13" font-weight="700" letter-spacing="1">API</text>
     <text x="214" y="129" text-anchor="middle" fill="#365553" font-size="13" font-weight="700" letter-spacing="1">MODEL</text>
-    <text x="338" y="129" text-anchor="middle" fill="#365553" font-size="13" font-weight="700" letter-spacing="1">ML</text>
-    <text x="214" y="183" text-anchor="middle" fill="#66817A" font-size="12" letter-spacing="2">FROM API TO INFERENCE</text>
+    <text x="338" y="129" text-anchor="middle" fill="#365553" font-size="13" font-weight="700" letter-spacing="1">USERS</text>
+    <text x="214" y="183" text-anchor="middle" fill="#66817A" font-size="12" letter-spacing="2">MODEL SERVING IN PRODUCTION</text>
   </g>
 </svg>

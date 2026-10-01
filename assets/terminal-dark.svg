@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+  <title id="title">Gustavo's backend and data terminal</title>
+  <desc id="desc">A terminal-style profile card with animated cursor and status indicators.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1522"/><stop offset="1" stop-color="#10232C"/></linearGradient>
+    <style>
+      .cursor { animation: blink 1s steps(2,end) infinite; }
+      .dot { transform-box: fill-box; transform-origin: center; animation: breathe 2.4s ease-in-out infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes breathe { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .cursor, .dot { animation: none; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="998" height="328" rx="22" fill="url(#bg)" stroke="#25414B" stroke-width="2"/>
+  <path d="M1 58h998" stroke="#25414B" stroke-width="2"/>
+  <circle cx="29" cy="30" r="7" fill="#F18178"/><circle cx="54" cy="30" r="7" fill="#E7AA67"/><circle cx="79" cy="30" r="7" fill="#43D6C4"/>
+  <text x="500" y="35" text-anchor="middle" fill="#78989A" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.5">GUSTAVO@DEV: ~</text>
+  <g font-family="Cascadia Code, Consolas, monospace" font-size="19">
+    <text x="48" y="105" fill="#43D6C4">$ whoami</text>
+    <text x="190" y="105" fill="#E5EFEC">Gustavo Lopes</text>
+    <text x="48" y="151" fill="#43D6C4">$ focus</text>
+    <text x="190" y="151" fill="#E5EFEC">Python backend · APIs · data &amp; ML</text>
+    <text x="48" y="197" fill="#43D6C4">$ toolkit</text>
+    <text x="190" y="197" fill="#E5EFEC">FastAPI · Django · Docker · PostgreSQL</text>
+    <text x="48" y="243" fill="#43D6C4">$ status</text>
+    <circle class="dot" cx="204" cy="237" r="5" fill="#43D6C4"/>
+    <text x="221" y="243" fill="#B6CAC8">Building, learning, and exploring</text>
+    <rect class="cursor" x="48" y="273" width="12" height="22" rx="2" fill="#E7AA67"/>
+  </g>
+  <path d="M847 102h86M847 114h58M847 126h72" stroke="#1D4952" stroke-width="4" stroke-linecap="round"/>
+  <path d="M847 164h69M847 176h91M847 188h55" stroke="#1D4952" stroke-width="4" stroke-linecap="round" opacity=".75"/>
+  <text x="847" y="228" fill="#78989A" font-family="Cascadia Code, Consolas, monospace" font-size="11" letter-spacing="1">READY</text>
+</svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
-  <title id="title">Gustavo Lopes — Python Backend Developer</title>
-  <desc id="desc">A clean light banner with a softly animated data signal moving between API, data, and machine learning nodes.</desc>
+  <title id="title">Gustavo Lopes — Machine Learning Engineer and Python Backend Developer</title>
+  <desc id="desc">A clean light banner with a softly animated signal moving from an API through a model to inference.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7FAF8"/><stop offset="1" stop-color="#EAF2EF"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#087E8B"/><stop offset="1" stop-color="#26A69A"/></linearGradient>
@@ -19,9 +19,9 @@
   <circle cx="1065" cy="147" r="148" fill="#DCEFE8" opacity=".56"/>
   <circle cx="1096" cy="25" r="64" fill="#DCEFE8" opacity=".34"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="72" y="77" fill="#087E8B" font-size="14" font-weight="700" letter-spacing="3">BACKEND ENGINEERING  /  DATA SCIENCE</text>
+    <text x="72" y="77" fill="#087E8B" font-size="14" font-weight="700" letter-spacing="3">ML ENGINEERING  /  BACKEND SYSTEMS</text>
     <text x="68" y="151" fill="#142B2C" font-size="54" font-weight="700" letter-spacing="-1.5">Gustavo Lopes</text>
-    <text x="72" y="195" fill="#365553" font-size="21">Python APIs, backend systems &amp; machine learning</text>
+    <text x="72" y="195" fill="#365553" font-size="21">Building ML systems and Python APIs</text>
     <g transform="translate(72 230)">
       <rect width="118" height="34" rx="17" fill="#DCEFE8"/>
       <circle cx="17" cy="17" r="5" fill="#168B7A"/>
@@ -29,9 +29,9 @@
       <rect x="128" width="118" height="34" rx="17" fill="#E5ECEB"/>
       <circle cx="145" cy="17" r="5" fill="#087E8B"/>
       <text x="158" y="22" fill="#365553" font-size="13" font-weight="700" letter-spacing="1">BACKEND</text>
-      <rect x="256" width="102" height="34" rx="17" fill="#F5EBDD"/>
+      <rect x="256" width="126" height="34" rx="17" fill="#F5EBDD"/>
       <circle cx="273" cy="17" r="5" fill="#CA8241"/>
-      <text x="286" y="22" fill="#715535" font-size="13" font-weight="700" letter-spacing="1">DATA / ML</text>
+      <text x="286" y="22" fill="#715535" font-size="13" font-weight="700" letter-spacing="1">ML ENGINEER</text>
     </g>
   </g>
   <g transform="translate(708 70)" font-family="Segoe UI, Arial, sans-serif">
@@ -44,8 +44,8 @@
     <path d="M205 55h18v20h-18zM209 50h10v5h-10zM209 60h10M209 66h10" fill="none" stroke="#087E8B" stroke-width="2" stroke-linecap="round"/>
     <path d="M327 71c0-8 5-13 11-13s11 5 11 13M338 52v8M326 66l-5-4M350 66l5-4" fill="none" stroke="#A86F38" stroke-width="2" stroke-linecap="round"/>
     <text x="88" y="129" text-anchor="middle" fill="#365553" font-size="13" font-weight="700" letter-spacing="1">API</text>
-    <text x="214" y="129" text-anchor="middle" fill="#365553" font-size="13" font-weight="700" letter-spacing="1">DATA</text>
+    <text x="214" y="129" text-anchor="middle" fill="#365553" font-size="13" font-weight="700" letter-spacing="1">MODEL</text>
     <text x="338" y="129" text-anchor="middle" fill="#365553" font-size="13" font-weight="700" letter-spacing="1">ML</text>
-    <text x="214" y="183" text-anchor="middle" fill="#66817A" font-size="12" letter-spacing="2">FROM REQUEST TO INSIGHT</text>
+    <text x="214" y="183" text-anchor="middle" fill="#66817A" font-size="12" letter-spacing="2">FROM API TO INFERENCE</text>
   </g>
 </svg>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
-  <title id="title">Gustavo's backend and data terminal</title>
+  <title id="title">Gustavo's ML engineering terminal</title>
   <desc id="desc">A terminal-style profile card with animated cursor and status indicators.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1522"/><stop offset="1" stop-color="#10232C"/></linearGradient>
@@ -19,7 +19,7 @@
     <text x="48" y="105" fill="#43D6C4">$ whoami</text>
     <text x="190" y="105" fill="#E5EFEC">Gustavo Lopes</text>
     <text x="48" y="151" fill="#43D6C4">$ focus</text>
-    <text x="190" y="151" fill="#E5EFEC">Python backend · APIs · data &amp; ML</text>
+    <text x="190" y="151" fill="#E5EFEC">ML engineering · Python · backend APIs</text>
     <text x="48" y="197" fill="#43D6C4">$ toolkit</text>
     <text x="190" y="197" fill="#E5EFEC">FastAPI · Django · Docker · PostgreSQL</text>
     <text x="48" y="243" fill="#43D6C4">$ status</text>
